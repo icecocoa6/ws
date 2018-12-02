@@ -1,0 +1,9 @@
+credentials
+dist
+node_modules
+src/aws-exports.js
+src/API.ts
+src/graphql
+.amplifyrc
+amplify
+.graphqlconfig.yml
